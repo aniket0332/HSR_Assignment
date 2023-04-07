@@ -19,7 +19,7 @@ body {
     width: auto;
     margin: auto;    
     background-size: cover;
-    background-image: url('../images/aboutbg.jpg');
+    background-image: url('.././images/aboutbg.jpg');
     background-attachment: fixed;
     padding: 50px;
   

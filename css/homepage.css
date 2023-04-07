@@ -21,7 +21,7 @@ body {
     width: auto;
     margin: auto;    
     background-size: contain;
-    background-image: url('../images/bg.jpg');
+    background-image: url('.././images/bg.jpg');
     background-attachment: fixed;
     padding: 50px;
   
